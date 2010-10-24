@@ -1,0 +1,52 @@
+w = wall
+W = fake wall(Looks like a wall but actually is a tile)
+s = socket
+g = green block that turns into a tile after being steped on
+G = green block that acts like a standard wall
+
+t = tile
+T = fake tile(Looks like a tile but actually is a wall)
+p = player starting point(only one per level)
+e = end warp
+
+f = fire
+F = fire boots
+a = water
+A = flippers
+
+P = pushable block thingy
+c = chip
+
+i = ice
+I = ice skates
+
+1 = top l ice
+2 = top r ice
+3 = bottom l ice
+4 = bottom r ice
+
+S = spy
+b = bomb //
+r = gravel //
+d = dirt
+h = hint
+/ = switch wall(default down)
+? = switch wall(default up)
+B = button for the switch walls
+u = Popup wall
++ = warp //
+
+5 = red key
+% = red lock
+6 = green key
+^ = green lock
+8 = blue key
+* = blue lock
+9 = yellow key
+( = yellow lock
+
+! = up force floor //
+@ = down force floor //
+# = left force floor //
+$ = right force floor //
+~ = force floor boots //

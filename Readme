@@ -1,0 +1,6 @@
+This is an updated version of our game Santa's Challenge. Unfortunately, over the years I lost the original code for SC but this is basically it.
+
+Note: To make use of loading levels from FAT, make sure you have a way of playing homebrew DS ROMs on an actual DS and comment out the line following line in source/rooms.cpp
+TempFunction(); return;
+
+Enjoy!
